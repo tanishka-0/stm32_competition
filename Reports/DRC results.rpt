@@ -1,0 +1,21 @@
+** Drc report for comp pcb1.kicad_pcb **
+** Created on 2026-09-15T22:36:47 **
+** Report includes: Errors, Warnings, Exclusions **
+
+** Found 1 DRC violations **
+[lib_footprint_mismatch]: Footprint 'MOLEX_47642-0001' does not match copy in library '47642-0001'
+    Local override; warning
+    @(134.6525 mm, 90.9000 mm): Footprint USB
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **
